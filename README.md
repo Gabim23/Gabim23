@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 - 🎨 Creative problem solver with an optimistic outlook
-- 🌱 Currently learning **Spring Framework & Figma**
+- 🌱 Currently learning **Flutter and MongoDB**
 - 💡 Passionate about blending technical skills with design thinking
 - 🛠 Sharpening expertise in **Software Arquitecture**
 
