@@ -37,9 +37,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabim23&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabim23&layout=compact&theme=vision-friendly-dark)](https://github.com/gabim23)
+[![Gabim23's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabim23&show_icons=true&theme=dark&hide_rank=true)](https://github.com/gabim23)
 
 </div>
 
